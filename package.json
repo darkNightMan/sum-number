@@ -1,0 +1,26 @@
+{
+  "name": "sum-number",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darkNightMan/sum-number.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darkNightMan/sum-number/issues"
+  },
+  "homepage": "https://github.com/darkNightMan/sum-number#readme",
+  "devDependencies": {
+    "terser-webpack-plugin": "^2.3.0",
+    "webpack": "^4.41.3",
+    "webpack-cli": "^3.3.10"
+  }
+}
